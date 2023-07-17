@@ -12,7 +12,6 @@
  * @invite 2Jwh2nS
 */
 
-
 /* I've commented most of these values so you can change them yourself. If you're having trouble, or you want to do more than what these values allow for, a volunteer might be able to help you in my server. */
 
 .theme-dark {
@@ -35,7 +34,7 @@
   --dplus-background-color-hue: 278;
   --dplus-background-color-saturation-amount: 1;
   --dplus-background-color-lightness-amount: 1;
-  --dplus-background-color-alpha: 0.1;}
+  --dplus-background-color-alpha: 0.2;}
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
