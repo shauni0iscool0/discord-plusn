@@ -35,8 +35,7 @@
   --dplus-background-color-hue: 278;
   --dplus-background-color-saturation-amount: 1;
   --dplus-background-color-lightness-amount: 1;
-  --dplus-background-color-alpha: 0;
-}
+  --dplus-background-color-alpha: 0;}
 
 /* If you use light theme, you can give it unique settings that are separate from dark theme. */
 .theme-light {
@@ -54,7 +53,7 @@
   --dplus-background-color-hue: 320;
   --dplus-background-color-saturation-amount: 1;
   --dplus-background-color-lightness-amount: 1;
-  --dplus-background-color-alpha: 0.8;
+  --dplus-background-color-alpha: 0.0;
 }
 
 :root {
@@ -86,6 +85,6 @@ Set avatar/server radius to 50% to make them circular.
 --dplus-icon-server-list: 32px;
 
 /* The Home icon on the top left */
---dplus-icon-home-dark: url(https://plusinsta.github.io/discord-plus/assets/discord/home_dark.svg);
+--dplus-icon-home-dark: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSRhupH16KjFHA3jQvNyTzOg1ZXCSUAjJG6E5Vy88&s);
 --dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
 }
